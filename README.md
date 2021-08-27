@@ -18,16 +18,16 @@ Consider this the coding sandbox for our discussion. Click on Markdown to edit t
 
 ## Tasks
 
-- Please clone this repo from github into a glitch project.
+- Please clone this repo from github into a glitch project and share the URL with us.
 
-- Please add Dose 3 to the bar chart: Add 100,000 doses for Dose 3. Please color it a darker shade of blue.
-
-- Please add an explanatory note for the third dose to the chart.
-
-- Implement the `add_bar_labels` function. The function should take the labels from the data and place them in the SVG similar to the counts beneath the bars.
-
-- Please change some aspect of the styling in CSS.
+- Please move doses.csv into a folder called `data` and correct the code to point to it.
 
 - Please write a message to the console with the value of any variable. Check that you can view your message with the live site open in a new browser window.
 
-- Please move doses.csv into a folder called `data` and correct the code to point to it.
+- Please add Dose 3 to the bar chart: Add 100,000 doses for Dose 3. Please color it a darker shade of blue.
+
+- Implement the `add_bar_labels` function. The function should take the labels from the data and place them in the SVG similar to the counts beneath the bars.
+
+- Please add an explanatory note to the HTML for the third dose to the chart.
+
+- Please change some aspect of the styling in CSS.

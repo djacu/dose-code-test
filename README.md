@@ -31,3 +31,5 @@ Consider this the coding sandbox for our discussion. Click on Markdown to edit t
 - Please add an explanatory note to the HTML for the third dose to the chart.
 
 - Please change some aspect of the styling in CSS.
+
+- Please upload your final work to github. 
